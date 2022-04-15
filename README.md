@@ -18,9 +18,8 @@
 
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **Programming**
-- 👀 I’m interested in **Computers**
 - 👯 I’m looking to collaborate on **Web Development**
-- 🤔 I’m looking for with **Internships**
+- 🤔 I’m looking for  **Internships**
 - 💬 Ask me about Anything on [Linkedin](https://www.linkedin.com/in/shagun-jindal-738456218/)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 
