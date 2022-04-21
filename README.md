@@ -13,7 +13,7 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://www.animatedimages.org/data/media/56/animated-computer-image-0019.gif">
 </a>
 
 - 🔭 I’m currently working on **Web Development**
