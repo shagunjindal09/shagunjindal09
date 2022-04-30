@@ -21,6 +21,6 @@
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for  **Internships**
 - 💬 Ask me about Anything on [Linkedin](https://www.linkedin.com/in/shagun-jindal-738456218/)! I am happy to help.
-- 
+ 
 
 
